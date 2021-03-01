@@ -11,7 +11,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.1",
     "react-three": "^0.9.7",
-    "three": "^0.113.2",
+    "three": "^0.125.0",
     "three-tween": "^1.0.0"
   },
   "scripts": {
